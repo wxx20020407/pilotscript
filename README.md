@@ -75,7 +75,11 @@ python app.py
         "storyline": "Daniel 和 Evelyn 面临高利贷的追债，走投无路之下，Daniel 决定向 Emma 忏悔并寻求帮助。Emma 却指责 Daniel 杀害了她的父亲。Daniel 否认，并试图恐吓 Emma，最终恼羞成怒，掐住 Emma 的脖子。Liam 出现并救下 Emma。Evelyn 来到 Emma 的房间，感谢 Emma 对 Rodney 的照顾，并留下了一张卡作为 Emma 的生活费。Emma 表示会将 Daniel 绳之以法。Daniel 试图挑拨 Emma 和 Liam 的关系，但 Emma 表示相信 Liam。这段剧情展现了 Daniel 的疯狂和 Evelyn 的无奈，也突出了 Emma 和 Liam 之间的信任和感情。遗产争夺的冲突进一步升级，Daniel 的罪行即将暴露。"
     }]
 ```
+
 也可以使用data_processing文件夹中的脚本生成更加直观的excel格式表。
+
+<img width="1489" alt="image" src="https://github.com/user-attachments/assets/6f2c65cc-5bc2-470a-b2b0-606e6245e75f" />
+
 ![image](https://github.com/user-attachments/assets/d828a41e-0fd0-4834-b1bd-d148f17e42b5)
 
 
